@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJoRW0xlJbIkujhvoWOp4oTZZXk38EdF+sls5WOZJhol7tF1M9WCnI7d+HTCZ7QGGzUg9O/RShxSnO+uCAGn9A==",
+  "success": true,
+  "projectFilePath": "/Users/jswan/Projects/AdventOfCode2021/Day3/Day3.fsproj",
+  "expectedPackageFiles": [
+    "/Users/jswan/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
